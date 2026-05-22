@@ -9,15 +9,18 @@
 
 <div>
   <a href="https://t.me/devanshusaini0"><img src="https://img.shields.io/badge/Telegram-Click-blue" /></a>&emsp;
-  <!-- <a href="https://www.youtube.com/@WebKaizenDev"><img src="https://img.shields.io/badge/YouTube-Click-c32136" /></a>&emsp; -->
   <a href="https://www.instagram.com/devanshu.saini_?igsh=MXE2NjI5M2Y1aDdvbQ=="><img src="https://img.shields.io/badge/Instagram-Click-8c36db" /></a>&emsp;
-  <!-- <a href="https://www.webkaizen.in"><img src="https://img.shields.io/badge/Website-Click-07c160" /></a>&emsp; -->
-  <!-- <a href="https://x.com/WebKaizen23999?t=feFZG9MGPMyzoDsC0E_eYA&s=09"><img src="https://img.shields.io/badge/X-Click-ff69b4" /></a>&emsp; -->
 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devanshu-saini-193308381/)
+
+  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gCwbPxbcS)
+
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/18RSE2Py65/)
+
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/4VJHRKI3OBXRL1)
 
   <!-- visitor -->
   <!-- <img src="https://komarev.com/ghpvc/?username=Princekumar-dev74&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp; -->
-
 </div>
 
 # 💻 Tech Stack:
