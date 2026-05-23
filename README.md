@@ -46,18 +46,16 @@ My goal is to become a skilled software engineer and contribute to impactful tec
 
 </tr></td>
 
-<tr><td>
-<div align="center" >
-
-<img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/princekumar-dev74/assets/man.png" width="250" height="250" />
-
+<tr><td align="center" colspan="2">
+<img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/princekumar-dev74/assets/man.png" width="250"/>
+</td>
+<tr>
 <!-- For 3 Column Table -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devanshu-Saini-07&theme=radical&hide_border=false" width="460" height="175"/>
 </td>
 <td>
   <!-- Github Theme Stats -->
-  <img width="316em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Devanshu-Saini-07&theme=radical" alt="Github Theme Stats">
-</td>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Devanshu-Saini-07&theme=radical" width="400"/>
 </tr>
 </table>
 <table width="100%" align="center">
