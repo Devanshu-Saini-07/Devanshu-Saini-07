@@ -29,53 +29,92 @@
 
 #  🙋 Hello
 
-<table>
+<table width="100%">
 
-<tr><td>
+<tr>
+<td>
 
-### 🤺 About Me
+<h2>🤺 About Me</h2>
 
-<img align="right" width="88" src="/assets/2024.jpg" />
+<img align="right" width="170" src="/assets/2024.jpg" />
 
-Hi, I'm Devanshu Saini, a BTech CSE student passionate about technology and software development.
-I enjoy learning programming languages like Java, JavaScript, and exploring web development.
-Currently, I’m improving my skills in backend development, databases, and problem solving.
-I love building projects, experimenting with new technologies, and continuously learning new things.
+Hi, I'm Devanshu Saini, a BTech CSE student passionate about technology and software development.  
+I enjoy learning programming languages like Java, JavaScript, and exploring web development.  
+Currently, I’m improving my skills in backend development, databases, and problem solving.  
+I love building projects, experimenting with new technologies, and continuously learning new things.  
 My goal is to become a skilled software engineer and contribute to impactful tech projects 🚀
 
-
-</tr></td>
-
-<tr><td align="center" colspan="2">
-<img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/princekumar-dev74/assets/man.png" width="250"/>
 </td>
+</tr>
+
+</table>
+
+<br>
+
+<table align="center">
+
 <tr>
-<!-- For 3 Column Table -->
+<td colspan="2" align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/princekumar-dev74/assets/man.png" width="250"/>
+
+</td>
+</tr>
+
+<tr>
+
+<td align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devanshu-Saini-07&theme=radical&hide_border=false" width="460" height="175"/>
+
 </td>
-<td>
-  <!-- Github Theme Stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Devanshu-Saini-07&theme=radical" width="400"/>
+
+<td align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Devanshu-Saini-07&theme=radical" width="400"/>
+
+</td>
+
 </tr>
+
 </table>
+
+<br>
+
 <table width="100%" align="center">
-<td>
-  <!-- Profile Summary -->
-  <img width="580em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devanshu-Saini-07&theme=radical" alt="Profile Summary">
+
+<tr>
+
+<td align="center">
+
+<img width="580em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devanshu-Saini-07&theme=radical" />
+
 </td>
-<td>
-  <!-- languages graph -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Devanshu-Saini-07&theme=radical&utcOffset=8&hide_border=false" height="175" alt="languages graph"  />
+
+<td align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Devanshu-Saini-07&theme=radical&utcOffset=8" height="175"/>
+
 </td>
+
 </tr>
+
 </table>
+
+<br>
 
 <div align="center">
-  <img alt="Ujjwal Github Chart" width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Devanshu-Saini-07&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Devanshu-Saini-07&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"/>
+
 </div>
 
+<br>
 
-<p><img align="center",height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/UjjwalSaini07/UjjwalSaini07/a7598cee98fcfe66abb1985c41cba4e116a92c1d/Assets_Used/Gifs/marqueeWelcome.svg" /></p>
+<p align="center">
 
+<img height="120" width="100%" src="https://raw.githubusercontent.com/UjjwalSaini07/UjjwalSaini07/a7598cee98fcfe66abb1985c41cba4e116a92c1d/Assets_Used/Gifs/marqueeWelcome.svg" />
 
-<img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050">
+</p>
+
+<img align="center" src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="100%">
