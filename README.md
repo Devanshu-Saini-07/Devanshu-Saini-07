@@ -50,3 +50,34 @@ My goal is to become a skilled software engineer and contribute to impactful tec
 <div align="center" >
 
 <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/princekumar-dev74/assets/man.png" width="250" height="250" />
+
+<!-- For 3 Column Table -->
+  <img  width="460" src="https://github-readme-streak-stats.herokuapp.com/?user=Devanshu-Saini-07&theme=radical&hide_border=false&width=300&height="175" />
+</td>
+<td>
+  <!-- Github Theme Stats -->
+  <img width="316em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Devanshu-Saini-07&theme=radical" alt="Github Theme Stats">
+</td>
+</tr>
+</table>
+<table width="100%" align="center">
+<td>
+  <!-- Profile Summary -->
+  <img width="580em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devanshu-Saini-07&theme=radical" alt="Profile Summary">
+</td>
+<td>
+  <!-- languages graph -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Devanshu-Saini-07&theme=radical&utcOffset=8&hide_border=false" height="175" alt="languages graph"  />
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img alt="Ujjwal Github Chart" width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Devanshu-Saini-07&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"/>
+</div>
+
+
+<p><img align="center",height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/UjjwalSaini07/UjjwalSaini07/a7598cee98fcfe66abb1985c41cba4e116a92c1d/Assets_Used/Gifs/marqueeWelcome.svg" /></p>
+
+
+<img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/neon-line.gif" width="3050">
