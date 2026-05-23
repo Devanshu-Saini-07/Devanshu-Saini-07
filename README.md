@@ -47,9 +47,9 @@ My goal is to become a skilled software engineer and contribute to impactful tec
 </tr></td>
 
 <tr><td>
-<div align="center" >
+<!-- <div align="center" > -->
 
-<img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/princekumar-dev74/assets/man.png" width="250" height="250" />
+<!-- <img src="https://cdn.jsdelivr.net/gh/princekumar-dev74/princekumar-dev74/assets/man.png" width="250" height="250" /> -->
 
 <!-- For 3 Column Table -->
 <img  width="460" src="https://github-readme-streak-stats.herokuapp.com/?user=Devanshu-Saini-07&theme=radical&hide_border=false&width=300&height="175" />
