@@ -55,17 +55,14 @@ I love building projects, experimenting with new technologies, and continuously 
 My goal is to become a skilled software engineer and contribute to impactful tech projects 🚀
 
 
+# 🌐 Portfolio
+🔗 https://devanshu-saini-07.github.io/dev-portfolio/
 
 </td>
 </tr>
 
 </table>
 
-<table>
-<br>
-# 🌐 Portfolio
-🔗 https://devanshu-saini-07.github.io/dev-portfolio/
-</table>
 <br>
 
 <table align="center">
