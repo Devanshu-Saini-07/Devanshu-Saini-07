@@ -59,11 +59,12 @@ My goal is to become a skilled software engineer and contribute to impactful tec
 </td>
 </tr>
 
+</table>
+
+<br>
 # 🌐 Portfolio
 
 🔗 https://devanshu-saini-07.github.io/About-Me/
-
-</table>
 
 <br>
 
