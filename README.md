@@ -74,6 +74,7 @@ My goal is to become a skilled software engineer and contribute to impactful tec
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Devanshu-Saini-07&bg_color=000000&line=ffb812&area=true&color=8135fc&hide_border=true&hide_title=true"/>
 
 </div>
+<br>
 <p align="center">
 
 <img height="120" width="100%" src="https://raw.githubusercontent.com/UjjwalSaini07/UjjwalSaini07/a7598cee98fcfe66abb1985c41cba4e116a92c1d/Assets_Used/Gifs/marqueeWelcome.svg" />
