@@ -55,13 +55,16 @@ I love building projects, experimenting with new technologies, and continuously 
 My goal is to become a skilled software engineer and contribute to impactful tech projects 🚀
 
 
-## 🌐 Portfolio
-<a href="https://devanshu-dev-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-4F46E5?style=for-the-badge" /></a>
 
 </td>
 </tr>
 
 </table>
+
+## 🌐 Portfolio
+<a href="https://devanshu-dev-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-4F46E5?style=for-the-badge" /></a>
+
+<br><br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Devanshu-Saini-07&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br>
