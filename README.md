@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=console.log(%22Hey%2C+There%22);Java+Learner;Python+Developer;Web+Development+Enthusiast;Building+Projects+🚀)](https://git.io/typing-svg)
 
 <picture>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGh6dW83enl5azljaTg4M3k1aHl1eW92d2t4bzN4N3Jzc3BqZDhocCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3YzNm0waHEzODlhNTQ0OTJ0cTU4dnZhbHg0M3J4aGhpdTBhaHgwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" />
 </picture><br><br>
 <br>
 
