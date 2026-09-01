@@ -67,7 +67,7 @@ My goal is to become a skilled software engineer and contribute to impactful tec
 <br><br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Devanshu-Saini-07&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br>
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=Devanshu-Saini-07&theme=radical&hide_border=false&include_all_commits=true)<br>
 ![](https://github-readme-streak-stats-eight.vercel.app/?user=Devanshu-Saini-07&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Devanshu-Saini-07&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
