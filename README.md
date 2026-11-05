@@ -46,7 +46,7 @@
 
 <h2>🤺 About Me</h2>
 
-<img align="right" width="170" src="/assets/2024.jpg"/>
+<!-- <img align="right" width="170" src="/assets/2024.jpg"/> -->
 
 Hi, I'm Devanshu Saini, a BTech CSE student passionate about technology and software development.  
 I enjoy learning programming languages like Java, JavaScript, and exploring web development.  
